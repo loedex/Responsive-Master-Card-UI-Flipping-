@@ -18,7 +18,9 @@ A responsive, interactive MasterCard-style flipping card component built entirel
 
 ## 🖼️ Preview
 
-![Card Preview](images/screenshot.png)  
+![Front-Side Screenshot] (images/Front-ScreenShot.png) 
+
+![Back-Side ScreenShot]  (images/Back-ScreenShot.png)
 
 
 
