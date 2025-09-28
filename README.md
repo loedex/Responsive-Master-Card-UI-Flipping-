@@ -52,7 +52,7 @@ Designed & developed by "Husnain Ahmad"
 
 Email: loedex@yahoo.com
 
-Phone: +92334-5275466
+WhatsApp: +92334-5275466
 
 TikTok: https://www.tiktok.com/@loedex0?_t=ZS-9065NDNjTve&_r=1
 
