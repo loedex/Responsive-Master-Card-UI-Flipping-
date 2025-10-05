@@ -6,7 +6,7 @@
 section{
     position: relative;
     width: 100%;
-    max-width: 1400px;
+    /*max-width: 1400px;*/
     min-height: 100vh;
     background-color: #121321;
     position: relative;
