@@ -10,11 +10,6 @@ A responsive, interactive MasterCard-style flipping card component built entirel
 - 🎨 Custom design using pure CSS (no frameworks)
 - 📁 Lightweight — no JavaScript dependencies
 
-## 🚀 Live Demo
-
-# View it on GitHub Pages 
-(https://loedex.github.io/Responsive-Master-Card-UI-Flipping-/)
-
 
 ## 🖼️ Preview
 
